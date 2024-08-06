@@ -21,7 +21,7 @@ The list below goes over a list of confirmed services that can be exposed public
     - Public Gallery
 - Amazon Simple Queue Service(SQS)
 - Amazon Simple Notification Service(SNS)
-- Amazon Simple Email Service(SES) v2
+- Amazon Simple Email Service(SES)
 - AWS Key Management Service(KMS)
 - AWS DynamoDB
     - DynamoDB Table
