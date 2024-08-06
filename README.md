@@ -19,6 +19,7 @@ The list below goes over a list of confirmed services that can be exposed public
 - AWS Elastic Container Registry(ECR)
     - ECR Repository
     - Public Gallery
+- AWS Elastic Filesystem(EFS)
 - Amazon Simple Queue Service(SQS)
 - Amazon Simple Notification Service(SNS)
 - Amazon Simple Email Service(SES)
