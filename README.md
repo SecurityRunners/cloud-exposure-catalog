@@ -2,6 +2,8 @@
 
 This repository will contain a public repository of cloud exposure attack surfaces as a tool to help you inventory your potential attack surface within cloud providers. 
 
+> :warning: **In Development**: This may be an inaccurate listing and is actively in development. I have no opinions as to how to structure this repository, so please don't hesitate to contribute any way you see fit. 
+
 ## AWS
 
 AWS has a list of services that support resource based policies located at [AWS services that work with IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html#swwiam_footnotes_vpc) that is by far the most exhaustive list but is far from definitive when it comes to outlining attack surface of potential exposures. 
