@@ -1,8 +1,6 @@
-# Amazon Web Services Exposure
+# Amazon Web Services
 
-## Network Based
-
-## Policy Based
+This list still needs to be fully triaged, unwilling to put services in the README.md unless it can be confirmed in some way. I took the liberty of going through [AWS services that work with IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html#swwiam_footnotes_vpc) and writing down every service that supports resource policies. Also perhaps [AWS IAM Actions](https://www.awsiamactions.io/?a=PutResourcePolicy) can be used as well to determine if services have yet to be added to the documentation. 
 
 ## Resource Based Policies
 
@@ -42,18 +40,3 @@ Resource-based policies are attached to a resource. With resource-based policies
 - AWS Private Certificate Authority (AWS Private CA)
 - AWS Organizations
 - Amazon OpenSearch Service
-
-## Partial
-
-- [AWS CloudTrail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/security_iam_resource-based-policy-examples.html)
-- [AWS IOT](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html#swwiam_footnotes_iot)
-- [AWS VPC](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html#swwiam_footnotes_vpc)
-- [AWS Rekognition](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html#swwiam_footnotes_rekognition)
-- [Amazon Managed Streaming for Apache Kafka](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html#swwiam_footnotes_msk)
-
-## Credit
-
-- [Services That Work with IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html#swwiam_footnotes_vpc)
-- [AWS Exposable Resources](https://github.com/SummitRoute/aws_exposable_resources)
-- [Endgame](https://github.com/DavidDikker/endgame)
-- [Smogcloud](https://github.com/BishopFox/smogcloud/tree/master/service)
