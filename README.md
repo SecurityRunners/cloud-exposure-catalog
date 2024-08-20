@@ -21,13 +21,11 @@ The list below goes over a list of confirmed services that can be exposed public
 - AWS Elastic Container Registry(ECR)
     - ECR Repository
     - Public Gallery
+- AWS Elastic Filesystem(EFS)
 - Amazon Simple Queue Service(SQS)
 - Amazon Simple Notification Service(SNS)
-- Amazon Simple Email Service(SES) v2
+- Amazon Simple Email Service(SES)
 - AWS Key Management Service(KMS)
-- AWS DynamoDB
-    - DynamoDB Table
-    - DynamoDB Stream
 - AWS CloudWatch Logs
 - AWS EventBridge
 - AWS Secrets Manager
@@ -37,7 +35,6 @@ The list below goes over a list of confirmed services that can be exposed public
     - Layer
 - AWS Serverless Application Repository(SAM)
 - AWS Backup
-- AWS Elastic Filesystem(EFS)
 - AWS Glacier
 - AWS Elemental Media Store
 - Amazon OpenSearch Service
