@@ -40,6 +40,7 @@ The list below goes over a list of confirmed services that can be exposed public
 - Amazon OpenSearch Service
 - AWS Private Certificate Authority (AWS Private CA)
 - AWS Glue
+- AWS SSM Document
 
 ## Credit
 
